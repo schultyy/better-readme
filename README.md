@@ -102,7 +102,17 @@ __How can you alleviate stress?__
 Hotwire is an alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire.
 
 Compared to other techniques and libraries, it's a new approach. People looking at it might not have any idea how it could be useful.
-Therefore, Hotwire requires different language to explain it to users compared to Devise.
+Therefore, Hotwire requires different language to explain it to users compared to Devise, as well as additional content to demonstrate use cases.
 
-Instead of being cautious and emphasizing battle-tested approaches, we want to showcase all the new opportunities this approach offers.
+Do you know this feeling you have when you just learned something new and now all you think about are the countless possibilities of things you can do now?
 
+That's the feeling to instill in your users. When they learn about Hotwire for the first time.
+
+How can you achieve that?
+
+Two things:
+
+1. Show them, how straightforward it is to use Hotwire to define user interfaces.
+2. Show them a lot of examples for different use cases.
+
+Enable your users to imagine, what great things they could achieve, if they used Hotwire.
