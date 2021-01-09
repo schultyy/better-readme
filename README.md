@@ -116,3 +116,17 @@ Two things:
 2. Show them a lot of examples for different use cases.
 
 Enable your users to imagine, what great things they could achieve, if they used Hotwire.
+
+## Contributing
+
+If you have additional tips and tricks for a good README, follow these steps:
+
+1. Fork this repository
+2. Check out a new branch: `git checkout -b feature-branch`.
+3. Add your tips and tricks to this README file.
+4. Commit Changes `git add . && git commit`.
+5. Open a Pull Request against this project's `main` branch on GitHub.
+
+## License
+
+MIT
