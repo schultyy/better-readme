@@ -1,11 +1,17 @@
 # Better README's for a successful Open Source project
 
-Your brand-new project is ready for the first users, yet once you start talking about it, nobody cares. Have you experienced this as well in the past?
+You have been busy working on a new open source project. Once you start talking about it, it's challenging to get the attention.
+Does that sound familiar?
 
-Then we should talk about `README.md` files. A README file helps to set the tone, explain what your project is all about and get visitors excited to try it out and contribute. Most importantly, GitHub by default shows the contents of your project's `README.md` by default.
-Therefore, it's the first interaction your users will have with your project.
+It's likely people looking at your project don't see how it could benefit them. Either, they need to solve different use cases, or your README doesn't address their requirements effectively.
+
+When you look at a new project, where do you usually start?
+It's likely the project's GitHub page. Next to the brief description on the top you will look at the `README` file.
+The `README` is your project's business card. It's selling your project - selling, as in "Does that project look useful to me?" or "Could I see myself use this in production?"
 
 ## How does a good README file look like?
+
+Firstly, we'll look at some key points for your project's README, followed by tips and tricks for using the right language to address and market your project.
 
 ### Introduction
 
