@@ -17,23 +17,19 @@ Firstly, we'll look at some key points for your project's README, followed by ti
 
 First of all, let's explain what the project is about. What does it do, for whom is it interesting?
 
-For instance:
+Here's an example from [Deno](https://github.com/denoland/deno):
 
 > Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 
-That's step one.
+That's step one. Now, in the next sentence, let's explain who our target user is. We want to make sure a visitor can determine if the project is relevant for them (and then keeps reading):
 
-Now, in the next sentence, let's explain who our target user is.
-
-> Deno is a JavaScript Runtime aimed towards developers who are security-conscious and want to work with TypeScript out of the box.
-
-It's important to explain who you want to use your product.
+> If you want to run TypeScript natively and need to run code in a security-conscious enviroment, Deno is your choice. Grant explicit permissions for I/O to ensure a maximum of security.
 
 ### Installation
 
-Explain in simple steps, how I can install the project or library on my computer. Depending on my operating system, include different instructions, if necessary.
+Explain in simple steps, how can the user install the project or library on their machine. Depending on my operating system, include different instructions if necessary.
 
-For instance:
+For instance (again, using Deno as an example):
 
 > Shell (Mac, Linux):
 
@@ -43,19 +39,18 @@ For instance:
 
 `iwr https://deno.land/x/install/install.ps1 -useb | iex`
 
+Optional: Include instructions how users can compile a version from source.
+
 ### Getting Started
 
-How can I use the project with the *least* number of steps possible? Here is space for your "Hello World" equalivant:
+How can users get started with the *least* number of steps possible? This is your opportunity to shine with your "Hello World" equalivant (Deno's example):
 
 `$ deno run https://deno.land/std/examples/welcome.ts`
 
 ### Contributing
 
-If I'd like to contribute, what steps do I have to follow to submit any changes?
-
-Explain, how users should use GitHub Issues for this project.
-
-Also, explain how they can submit code changes to your project. For instance:
+Do you allow and accept outside contributions? What's the process to submit changes? Explain, how users should use GitHub Issues for this project.
+Explain how they can submit code changes to your project. For instance:
 
 1. Fork this project.
 2. Check out a new branch: `git checkout -b feature-branch`.
