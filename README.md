@@ -58,41 +58,46 @@ Explain how they can submit code changes to your project. For instance:
 4. Commit Changes `git add . && git commit`.
 5. Open a Pull Request against this project's `main` branch.
 
-In your PR description, please explain why you submitted the PR and all other necessary context.
+> In your PR description, please explain why you submitted the PR and all other necessary context.
 
-
-## Misc
+## Addressing users
 
 ### Active Language
 
 Use active language to describe your project and steps users need to take. For instance:
 
-```
-Visit [link] to find the Getting Started Guide.
-```
+> Visit [link](https://example.com) to find the Getting Started Guide.
 
 And avoid:
 
-```
-A getting started guide can be found here.
-```
+> A getting started guide can be found [here](https://example.com).
+
+### Write for your users
+
+> I chose to implement these features because I needed it for a use case.
+
+How does that make you feel when you read it? Probably not very convincing. Instead of writing for yourself, what do your users need and expect?
+It can be challenging sometimes changing perspective, because you're focused on a lot of details. Take a step back and when you look at your project from a user's perspective, what information would you expect to read about?
 
 ### How to describe your project
 
-Depending on the type of project, you might want to describe it to your audience differently. Let's consider two examples.
+Depending on the type of project, adapt your description. Let's consider two examples.
 
-#### Security / Safety with [Devise](https://github.com/heartcombo/devise)
+#### Security / Safety motivation, using [Devise](https://github.com/heartcombo/devise) as an example
 
 Devise is a Ruby library to help developers implement authentication in their [Rails](https://rubyonrails.org/) application.
 
-A user that works on authentication needs to fulfill security requirements. Unmet security requirements are often stress-inducing, therefore it is our job to help the user to reduce stress as much as possible.
+A developer implementing authentication features needs to make sure their users can safely log in, so their accounts needs to be safe and secure.
+How do you feel when you are working on security-related features?
+Unmet security requirements are often stress-inducing, therefore you need to reduce stress as much as possible.
 
-How can we avoid triggering stress?
+__How can you alleviate stress?__
 
-We emphasize that the library is well-tested and uses established protocols and mechanisms to implement authentication.
-We want to make sure the user knows that they are using a safe library to solve their problems, without causing any surprises.
 
-#### New approaches with [Hotwire](https://hotwire.dev)
+1. Emphasize that the library is well-tested and uses established protocols and mechanisms to implement authentication.
+2. When you talk about your libraries advantages, talk about what you prevent from happening, such as "Prevent unauthorized access to your application"
+
+#### New approaches to do something with [Hotwire](https://hotwire.dev) as an example
 
 Hotwire is an alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire.
 
