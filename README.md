@@ -1,4 +1,4 @@
-# better-readme
+# Better README's for a successful Open Source project
 
 Your brand-new project is ready for the first users, yet once you start talking about it, nobody cares. Have you experienced this as well in the past?
 
