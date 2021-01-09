@@ -1,4 +1,4 @@
-# Better README's for a successful Open Source project
+# More visibility for your Open Source project with a better README
 
 ![better-readme.png](better-readme.png)
 
