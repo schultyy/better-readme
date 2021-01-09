@@ -1,5 +1,7 @@
 # Better README's for a successful Open Source project
 
+![better-readme.png](better-readme.png)
+
 You have been busy working on a new open source project. Once you start talking about it, it's challenging to get the attention.
 Does that sound familiar?
 
